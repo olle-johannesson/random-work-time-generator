@@ -25,4 +25,4 @@ $ node rndWorkTimes.js
 │ afternoon │ '13:05' │ '16:41' │
 └───────────┴─────────┴─────────┘
 total: 08h 18m
-`s``
+```
